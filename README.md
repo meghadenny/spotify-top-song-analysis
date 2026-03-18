@@ -10,6 +10,10 @@ The **Spotify Playlist Analysis Report** is an interactive Power BI dashboard (`
 * **Drill-Down Capabilities:** Go from a high-level playlist overview down to granular track-level statistics.
 * **User-Friendly Navigation:** Clean, accessible report layout designed for intuitive exploration.
 
+![img1](SpotifyAnalysisReport_page1.jpg)
+![img1](SpotifyAnalysisReportPage_2.jpg)
+![img1](SpotifyAnalysisReportPage_3.jpg)
+
 ## 📊 Key Analysis & Insights
 This report focuses on several core analytical areas:
 
